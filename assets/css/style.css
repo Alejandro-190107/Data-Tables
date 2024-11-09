@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #FBFBFB;
+}
+
+/* Navbar Style */
+.navbar{
+  background-color:#C5CAE9;
+}
+
+.nav-link{
+  color: #7986CB;
+  font-size: 25px;
+  font-weight: 400;
+  font-family: cursive;
+}
+
+/* Table Style */
+
+.container-table {
+  margin: 0 auto;
+  max-width: 1200px;
+  min-height: 500px;
+  text-align: center;
+  padding: 20px; /* Espacio en todos los lados */
+  padding-bottom: 10vh;
+}
+
+.card-title{
+  color: #9FA8DA;
+  text-align: center;
+  font-family: "Delius Swash Caps", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+
+/* Footer Style */
+
+.footer{
+  background-color:#C5CAE9;
+}
+
+.copyright{
+  color: #5C6BC0;
+  font-family: cursive;
+  text-align: center;
+}
+
+.copyright-link{
+  color: #5C6BC0;
+  font-weight: 700;
+  text-align: center;
+}
