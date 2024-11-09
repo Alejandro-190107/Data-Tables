@@ -1,6 +1,6 @@
 # <h1 align="center" style="color: #80cbc4;"> Data Tables 👨🏻‍💻 </h1> <hr>  
 
-<img align="left" alt="Coding" width="200" height="200" src="https://cdn-icons-gif.flaticon.com/15713/15713110.gif">
+<img align="left" alt="Coding" width="200" height="200" src="https://venturesadvertising.co.in/wp-content/uploads/2023/05/Career.gif">
 
 ` DataTables ` is a jQuery plugin that allows you to add functionality to HTML tables, such as searching, sorting, editing and navigating data. <br>
 The following web program displays random user data using data tables for an enhanced view.
