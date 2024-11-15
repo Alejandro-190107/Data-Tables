@@ -109,7 +109,7 @@
     <!-- Footer -->
     <footer class="footer text-center text-lg-start fixed-bottom">
         <div class="text-center p-3">
-            <p class="copyright"> <i class="fa-solid fa-copyright"></i> 2024 Copyright: <a class="copyright-link fw-bold" href="https://personal-portfolio-al.netlify.app/" target="_blank"> Alejando López </a></p>
+            <p class="copyright"> <i class="fa-solid fa-copyright"></i> 2024 Copyright: <a class="copyright-link fw-bold" href="https://personal-portfolio-al.netlify.app/" target="_blank"> Alejandro López </a></p>
         </div>
     </footer>
     <!-- Footer -->
